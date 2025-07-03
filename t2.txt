@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+hoy es  y mañanaes hoy mi reina
+=======
+brus nuevo
+>>>>>>> ramisa
